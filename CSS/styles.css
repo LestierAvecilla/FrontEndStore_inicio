@@ -172,4 +172,9 @@ html {
   
   }
 }
-
+/** nosotros **/
+.descripcioNosotros{
+  font-family: var(--fuentePrincipal);
+    color: var(--blanco);
+    font-size: 3rem;
+}
